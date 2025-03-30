@@ -1,1 +1,1 @@
-# DiscordImageLog
+A discord image logger used for taking down your enemies WARNING: DO NOT USE THIS IF YOU DON'T HAVE THE USER'S CONSENT OR IS JUST HACKING PEOPLE USING IT WITHOUT A GOOD REASON IS ILLEGAL
